@@ -1,0 +1,55 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h3 {
+    color: #d0ce3a;
+}
+
+button {
+    background-color: #e40a0a;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4ab519;
+}
+
+button:active {
+    background-color: #0a7de4;
+}
+
+div{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+p{
+    padding: 10px;
+}
+
+.container1 {
+    border: 6px solid red;
+    border-radius: 10px;
+}
+
+.container2 {
+    border: 4px dotted blue;
+    border-radius: 5px;
+}
+
+.container3 {
+    border: 6px double blue;
+    border-radius: 10px;
+} 
